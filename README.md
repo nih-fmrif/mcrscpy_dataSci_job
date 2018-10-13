@@ -1,3 +1,5 @@
+<img src="NIMH_logo.png" width="250"> 
+
 # Hiring: Data Scientist for Large Scale Microscopy
 
 The [Sections on Neural Function](https://www.nimh.nih.gov/labs-at-nimh/research-areas/clinics-and-labs/snf/index.shtml) and 
@@ -27,3 +29,5 @@ The successful candidate must have:
 
 If you meet the requirements listed below and are passionate about applying the techniques of big data to 
 push science forward, please contact Dr. Benjamin White (benjaminwhite@mail.nih.gov) or Dr. Ted Usdin (usdint@mail.nih.gov).
+
+The National Institutes of Health is an equal opportunity employer. The candidate will be employed via a third party contractor.

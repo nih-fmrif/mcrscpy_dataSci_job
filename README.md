@@ -1,4 +1,4 @@
-# Hiring: Data Scienist for Large Scale Microscopy
+# Hiring: Data Scientist for Large Scale Microscopy
 
 The [Sections on Neural Function](https://www.nimh.nih.gov/labs-at-nimh/research-areas/clinics-and-labs/snf/index.shtml) and 
 [Fundamental Neuroscience](https://www.nimh.nih.gov/labs-at-nimh/principal-investigators/ted-usdin.shtml) are seeking an individual who is to work at the interface 

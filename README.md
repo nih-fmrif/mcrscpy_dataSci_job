@@ -2,7 +2,7 @@
 
 # Hiring: Data Scientist for Large Scale Microscopy
 See also: 
-* [Staff Scientist position available on the AFNI Team](https://github.com/afni/Post_doc_position_available)
+* [Staff Scientist Position in the Scientific and Statistical Computing Core (AFNI group)](https://github.com/afni/Post_doc_position_available)
 * [Data Scientist Position on the Data Science and Sharing team](https://github.com/nih-fmrif/dataSci_job_ad)
 
 The [Sections on Neural Function](https://www.nimh.nih.gov/labs-at-nimh/research-areas/clinics-and-labs/snf/index.shtml) and 

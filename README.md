@@ -1,9 +1,11 @@
 <img src="NIMH_logo.png" width="250"> 
 
-# Hiring: Data Scientist for Large Scale Microscopy
+# Job Vacancy Filled: ~~Data Scientist for Large Scale Microscopy
 See also: 
 * [Staff Scientist Position in the Scientific and Statistical Computing Core (AFNI group)](https://github.com/afni/Post_doc_position_available)
 * [Data Scientist Position on the Data Science and Sharing team](https://github.com/nih-fmrif/dataSci_job_ad)
+
+
 
 The [Sections on Neural Function](https://www.nimh.nih.gov/labs-at-nimh/research-areas/clinics-and-labs/snf/index.shtml) and 
 [Fundamental Neuroscience](https://www.nimh.nih.gov/labs-at-nimh/principal-investigators/ted-usdin.shtml) are seeking an individual who is to work at the interface 

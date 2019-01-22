@@ -1,6 +1,6 @@
 <img src="NIMH_logo.png" width="250"> 
 
-# Job Vacancy Filled: ~~Data Scientist for Large Scale Microscopy
+# Job Vacancy Filled: ~~Data Scientist for Large Scale Microscopy~~
 See also: 
 * [Staff Scientist Position in the Scientific and Statistical Computing Core (AFNI group)](https://github.com/afni/Post_doc_position_available)
 * [Data Scientist Position on the Data Science and Sharing team](https://github.com/nih-fmrif/dataSci_job_ad)
